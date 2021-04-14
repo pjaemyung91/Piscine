@@ -1,0 +1,6 @@
+Credentials cache: API:2BA794E7-C934-4C49-92C4-FB4B90705FE2
+        Principal: jaempark@42SEOUL.KR
+
+  Issued                Expires               Principal
+Mar 24 15:35:41 2021  Mar 25 01:35:41 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
+Mar 24 15:35:42 2021  Mar 25 01:35:41 2021  HTTP/student-storage.42seoul.kr@42SEOUL.KR
